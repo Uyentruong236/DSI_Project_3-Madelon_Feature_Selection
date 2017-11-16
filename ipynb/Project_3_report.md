@@ -17,6 +17,7 @@ Initial EDA of the datasets indicated that there are no null values in the data 
 
 A heatmap of the entire UCI dataset and a sample of the Database dataset show that there are significant noise in both sets and it is difficult to determine any correlation from looking at the map.
 
+<img src="../Images/uci_heatmap.png" alt="This is not a pipe" style="width: 400px;"/>
 
 ![](../Images/uci_heatmap.png)
 
